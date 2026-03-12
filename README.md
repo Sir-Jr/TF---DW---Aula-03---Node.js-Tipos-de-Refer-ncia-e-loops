@@ -1,7 +1,5 @@
 # TF - DW - Aula 03 - Node.js: Tipos de Referência e loops
 
-# TF - DW - Aula 03
-
 ## Node.js: Tipos de Referência e Loops
 
 Este repositório contém o Trabalho Final da Aula 03 da disciplina de Desenvolvimento Web.
